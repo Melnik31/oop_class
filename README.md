@@ -1,2 +1,2 @@
 # oop_class
-Indiana Tech OOP class repository
+Welcome to my repo
